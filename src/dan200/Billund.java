@@ -1,7 +1,6 @@
 /**
  * This file is part of Billund - http://www.computercraft.info/billund
- * Copyright Daniel Ratcliffe, 2013. Do not distribute without permission.
- * Send enquiries to dratcliffe@gmail.com
+ * Copyright Daniel Ratcliffe, 2013-2014. See LICENSE for license details.
  */
  
 package dan200;
