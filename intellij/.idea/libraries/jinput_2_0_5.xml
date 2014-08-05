@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="jinput-2.0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../forge947/mcp/jars/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../forge947/mcp/jars/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../forge947/mcp/jars/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../forge947/mcp/jars/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5-sources.jar!/applet/src" />
+      <root url="jar://$PROJECT_DIR$/../../forge947/mcp/jars/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5-sources.jar!/coreAPI/src/java" />
+      <root url="jar://$PROJECT_DIR$/../../forge947/mcp/jars/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5-sources.jar!/coreAPI/build/src/java" />
+      <root url="jar://$PROJECT_DIR$/../../forge947/mcp/jars/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5-sources.jar!/plugins/OSX/src/java" />
+      <root url="jar://$PROJECT_DIR$/../../forge947/mcp/jars/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5-sources.jar!/plugins/awt/src" />
+      <root url="jar://$PROJECT_DIR$/../../forge947/mcp/jars/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5-sources.jar!/plugins/linux/src/java" />
+      <root url="jar://$PROJECT_DIR$/../../forge947/mcp/jars/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5-sources.jar!/plugins/wintab/src/java" />
+      <root url="jar://$PROJECT_DIR$/../../forge947/mcp/jars/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5-sources.jar!/plugins/windows/src/java" />
+    </SOURCES>
+  </library>
+</component>

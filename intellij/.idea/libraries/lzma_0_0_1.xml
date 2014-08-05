@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lzma-0.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../forge947/mcp/jars/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

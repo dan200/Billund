@@ -1,0 +1,17 @@
+[
+{
+  "modid" : "Billund",
+  "name" : "CCMODNAME",
+  "version" : "CCVERSION",
+  "url" : "http://www.computercraft.info/billund",
+  "credits" : "Created by Daniel \"dan200\" Ratcliffe",
+  "authors" : [
+    "Daniel Ratcliffe"
+  ],
+  "description" : "Plastic building blocks for Minecraft!",
+  "updateUrl" : "http://www.computercraft.info/billund",
+  "parent" : "",
+  "screenshots": [
+  ]
+}
+]

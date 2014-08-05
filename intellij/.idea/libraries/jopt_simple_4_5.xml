@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jopt-simple-4.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../forge947/mcp/jars/libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../forge947/mcp/jars/libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

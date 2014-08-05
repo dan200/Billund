@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="argo-2.25_fixed">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../forge947/mcp/jars/libraries/argo/argo/2.25_fixed/argo-2.25_fixed.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
